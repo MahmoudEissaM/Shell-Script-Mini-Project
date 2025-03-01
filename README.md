@@ -1,4 +1,4 @@
- Shell Script Database Management System (DBMS)</h1>
+<h1> Shell Script Database Management System (DBMS)</h1>
 
 <h2>📌 Project Overview</h2>
 <p>This project is a <b>Database Management System (DBMS)</b> built using <b>Bash Shell Scripting</b>.  
