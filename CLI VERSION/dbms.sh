@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DB_PATH="Mahmoud&Waheed"
+DB_PATH="DataBase"
 
 mkdir -p "$DB_PATH"
 
@@ -43,7 +43,7 @@ connect_database() {
 }
 
 while true; do
-    echo -e "\n===== Mahmoud&Waheed DBMS ====="
+    echo -e "\n===== DBMS ====="
     echo "1) Create Database"
     echo "2) List Databases"
     echo "3) Connect To Database"
