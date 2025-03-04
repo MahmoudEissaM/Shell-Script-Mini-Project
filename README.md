@@ -53,9 +53,8 @@ It enables users to store and retrieve data directly from the <b>Hard Disk</b>.<
   <li>Tables have <b>column data types</b> and <b>Primary Key Constraints</b>.</li>
 </ul>
 
-<h2>🏆 Bonus Features</h2>
+<h2>🏆 Features</h2>
 <ul>
-  <li>Accepts SQL-like commands (optional).</li>
   <li>Future GUI Integration.</li>
 </ul>
 
